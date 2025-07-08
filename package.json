@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ElderSam/nlw_agents/issues"
   },
-  "homepage": "https://github.com/ElderSam/nlw_agents#readme"
+  "homepage": "https://github.com/ElderSam/nlw_agents#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "typescript": "^5.8.3"
+  }
 }
