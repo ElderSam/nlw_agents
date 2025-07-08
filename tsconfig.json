@@ -8,7 +8,7 @@
     "target": "es2022",
 
     "noEmit": true,
-    "allowimportingTsExtensions": true,
+    "allowImportingTsExtensions": true,
 
     "strict": true,
     "esModuleInterop": true,
