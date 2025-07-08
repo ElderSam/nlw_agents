@@ -11,3 +11,8 @@ typescript project
 
 3. create **tsconfig.json** file: ``npx tsc --init``
 
+4. Go to the project [tsconfig/bases](https://github.com/tsconfig/bases).   
+Example: find your Node version.
+My version is [@tsconfig/node22](https://www.npmjs.com/package/@tsconfig/node22).   
+4.1. click the link (npm) and cocpy the `tsconfig.json` example.
+
