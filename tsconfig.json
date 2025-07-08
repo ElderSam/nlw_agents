@@ -7,6 +7,9 @@
     "module": "nodenext",
     "target": "es2022",
 
+    "noEmit": true,
+    "allowimportingTsExtensions": true,
+
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
