@@ -10,3 +10,6 @@ typescript project
 - run the container: ``docker compose up -d``
 - ``docker-compose.yml`` defines services and depencencies.
 - [pgvector](https://hub.docker.com/r/pgvector/pgvector/tags)
+
+## drizzle ORM
+Create migration: ``npx drizzle-kit generate``
