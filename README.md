@@ -5,4 +5,8 @@ typescript project
 - Frontend: React interact with API, getting question answer, create classes, upload audio files, etc.
 
 ## instructions
-to bring a pre-established configuration for Biome: [ultracite.ai/introduction](https://www.ultracite.ai/introduction)
+
+### docker
+- run the container: ``docker compose up -d``
+- ``docker-compose.yml`` defines services and depencencies.
+- [pgvector](https://hub.docker.com/r/pgvector/pgvector/tags)
