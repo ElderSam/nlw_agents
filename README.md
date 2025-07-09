@@ -12,4 +12,14 @@ typescript project
 - [pgvector](https://hub.docker.com/r/pgvector/pgvector/tags)
 
 ## drizzle ORM
-Create migration: ``npx drizzle-kit generate``
+- *drizzle-orm* is the orm for databases
+- *drizzle-kit* is the CLI
+
+1. Create migration:  
+    ``npx drizzle-kit generate``
+
+2. run migration:  
+``npx drizzle-kit migrate``  
+
+3. vizualize database (using the browser):  
+``npx drizzle-kit studio``
