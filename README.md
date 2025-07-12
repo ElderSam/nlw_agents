@@ -14,6 +14,7 @@ typescript project
 ## drizzle ORM
 - *drizzle-orm* is the orm for databases
 - *drizzle-kit* is the CLI
+- *drizzle-seed* helps you generate data to populate your database
 
 1. Create migration:  
     ``npx drizzle-kit generate``
@@ -23,3 +24,7 @@ typescript project
 
 3. vizualize database (using the browser):  
 ``npx drizzle-kit studio``
+
+OPTIONAL
+Populate your database
+``npm run db:seed``
