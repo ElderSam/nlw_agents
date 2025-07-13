@@ -1,4 +1,5 @@
 # Frontend
 
-Create project with Vite
-``npm create vite@latest web`` -> React -> Typescript
+## code formatter
+Configure **biome** with **ultracite** by CLI:  
+``npx ultracite init``
