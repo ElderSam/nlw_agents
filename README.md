@@ -28,3 +28,6 @@ typescript project
 OPTIONAL
 Populate your database
 ``npm run db:seed``
+
+## Testing routes
+if you want, you can install the extension **REST Client** in **VSCode** and use the file ``client.http``
